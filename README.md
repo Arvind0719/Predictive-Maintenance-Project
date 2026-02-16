@@ -1,4 +1,4 @@
-# Predictive-Maintenance-ProjectPredictive-Maintenance-Project
+# Predictive-Maintenance-Project
 Machine Failure Prediction Using Machine Learning for Predictive Maintenance
 
 Objective:
